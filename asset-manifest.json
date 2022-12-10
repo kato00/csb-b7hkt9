@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://kato00.github.io/csb-b7hkt9/static/css/main.b2f1d229.chunk.css",
-    "main.js": "https://kato00.github.io/csb-b7hkt9/static/js/main.905ac741.chunk.js",
-    "main.js.map": "https://kato00.github.io/csb-b7hkt9/static/js/main.905ac741.chunk.js.map",
+    "main.css": "https://kato00.github.io/csb-b7hkt9/static/css/main.486b6a27.chunk.css",
+    "main.js": "https://kato00.github.io/csb-b7hkt9/static/js/main.8a6103b0.chunk.js",
+    "main.js.map": "https://kato00.github.io/csb-b7hkt9/static/js/main.8a6103b0.chunk.js.map",
     "runtime-main.js": "https://kato00.github.io/csb-b7hkt9/static/js/runtime-main.839ef1c4.js",
     "runtime-main.js.map": "https://kato00.github.io/csb-b7hkt9/static/js/runtime-main.839ef1c4.js.map",
     "static/js/2.2e5b19c2.chunk.js": "https://kato00.github.io/csb-b7hkt9/static/js/2.2e5b19c2.chunk.js",
     "static/js/2.2e5b19c2.chunk.js.map": "https://kato00.github.io/csb-b7hkt9/static/js/2.2e5b19c2.chunk.js.map",
     "index.html": "https://kato00.github.io/csb-b7hkt9/index.html",
-    "static/css/main.b2f1d229.chunk.css.map": "https://kato00.github.io/csb-b7hkt9/static/css/main.b2f1d229.chunk.css.map",
+    "static/css/main.486b6a27.chunk.css.map": "https://kato00.github.io/csb-b7hkt9/static/css/main.486b6a27.chunk.css.map",
     "static/js/2.2e5b19c2.chunk.js.LICENSE.txt": "https://kato00.github.io/csb-b7hkt9/static/js/2.2e5b19c2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.839ef1c4.js",
     "static/js/2.2e5b19c2.chunk.js",
-    "static/css/main.b2f1d229.chunk.css",
-    "static/js/main.905ac741.chunk.js"
+    "static/css/main.486b6a27.chunk.css",
+    "static/js/main.8a6103b0.chunk.js"
   ]
 }
